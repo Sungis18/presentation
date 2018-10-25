@@ -1,1 +1,82 @@
-
+body
+{
+	background-repeat: repeat;
+	background-color: #000000;
+	padding:0% 5%;
+}
+h1
+{
+	font-family: sans-serif;
+	text-align: left;
+	color: #FFA62E;
+}
+.grand-titre
+{
+	font-family: sans-serif;
+	text-align: center;
+	color: #ff493f;
+}
+h2
+{
+	font-family: arimo;
+	text-align: left;
+	color: #FFEAB4  ;
+}
+p
+{
+	font-family: sans-serif;
+	text-align: justify; 
+	text-indent: 30px;
+	line-height: 1.3;
+	color: white;
+}
+li
+{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: large;
+	text-align: justify;
+	line-height: 1.4;
+	color: white;
+}
+a
+{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: large;
+	text-align: center;
+	line-height: 1.8;
+	color: white;
+}
+q
+{
+	font-size: x-large;
+	font-weight: bold;
+	font-family: candara;
+	font-style: italic;
+	text-align: left;
+	color: white;
+}
+.logo-reseaux
+{
+	margin:auto;
+	padding:auto;
+	text-align: center;
+	display: inline-block;
+	width: 100px;
+}
+.auteur
+{
+	padding-left: 800px;
+	font-family: sans-serif;
+	font-style: italic;
+	text-align: left;
+	color: #f0f0f0;
+}
+.dave-barry
+{
+	width: 100px;
+	border-width: 5px;
+	border-color: gray;
+	border-style: solid;
+}

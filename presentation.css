@@ -80,3 +80,12 @@ q
 	border-color: gray;
 	border-style: solid;
 }
+.ma-photo
+{
+	padding-left:auto;
+	padding-right: auto;
+	width: 200px;
+	border-width: 3px;
+	border-color: white;
+	border-style: solid;
+}

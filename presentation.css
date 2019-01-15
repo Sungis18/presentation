@@ -75,6 +75,7 @@ q
 	border-width: 3px;
 	border-color: #D5D8D1;
 	border-style: solid;
+	float: left;
 }
 .ma-photo
 {

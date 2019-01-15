@@ -4,9 +4,9 @@ body
 	background-color: #000000;
 	font-family: sans-serif;
 	padding: 5% 5%;
-	/*margin-left: auto;
-  	margin-right: auto;*/
-  	width: 1200px;
+	margin-left: auto;
+  	margin-right: auto;
+  	/*width: 1200px;*/
 }
 h1
 {

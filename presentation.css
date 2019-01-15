@@ -5,7 +5,7 @@ body
 	font-family: sans-serif;
 	padding: 5% 5%;
 	max-width: 1000px;
-	text-align: center;
+	text-align: justify;
 }
 h1
 {
@@ -88,5 +88,5 @@ q
 }
 .centrerTexte
 {
-	text-align: justify;
+	text-align: center;
 }

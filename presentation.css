@@ -3,28 +3,25 @@ body
 	background-repeat: repeat;
 	background-color: #000000;
 	padding:0% 5%;
+	font-family: sans-serif;
 }
 h1
 {
-	font-family: sans-serif;
 	text-align: left;
 	color: #FFA62E;
 }
 .grand-titre
 {
-	font-family: sans-serif;
 	text-align: center;
 	color: #ff493f;
 }
 h2
 {
-	font-family: arimo;
 	text-align: left;
 	color: #FFEAB4  ;
 }
 p
 {
-	font-family: sans-serif;
 	text-align: justify; 
 	text-indent: 30px;
 	line-height: 1.3;
@@ -33,7 +30,6 @@ p
 li
 {
 	font-weight: bold;
-	font-family: sans-serif;
 	font-size: large;
 	text-align: justify;
 	line-height: 1.4;
@@ -42,7 +38,6 @@ li
 a
 {
 	font-weight: bold;
-	font-family: sans-serif;
 	font-size: large;
 	text-align: center;
 	line-height: 1.8;
@@ -52,7 +47,7 @@ q
 {
 	font-size: x-large;
 	font-weight: bold;
-	font-family: candara;
+	font-family: candara, sans-serif;
 	font-style: italic;
 	text-align: left;
 	color: white;

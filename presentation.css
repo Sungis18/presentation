@@ -3,6 +3,7 @@ body
 	background-repeat: repeat;
 	background-color: #000000;
 	font-family: sans-serif;
+	padding: auto;
 	max-width: 1000px;
 }
 h1
